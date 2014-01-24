@@ -1,0 +1,110 @@
+#button {
+	width: 109px;
+	height: 37px;
+	margin: 36px 489px 73px 380px;
+	font-size: 20px;
+}
+
+#dropdown {
+	position: absolute;
+	width: 100px;
+	height: 37px;
+	margin: 36px 0 73px 380px;
+	font-size: 15px;
+}
+
+.content {
+	font-family: monospace;
+	color: #46C;
+	-webkit-margin-before: 0.67em;
+	-webkit-margin-after: 0.67em;
+	font-weight: bold;
+	width: 100%;
+	float: left;
+	padding: 40px 0;
+}
+
+.wrap {
+	width: 900px;
+	margin: 0 auto;
+	font-family: Arial, sans-serif;
+	font-size: 14px;
+	-webkit-font-smoothing: auto;
+}
+
+.welcome {
+	width: 500px;
+	margin: auto;
+	margin-top: 30px;
+	text-shadow: 0 3px 0px #FFF;
+}
+
+.welcome h1 {
+	float: left;
+	font-family: "Open Sans";
+	font-size: 23px;
+	line-height: 39px;
+	font-weight: lighter;
+	text-align: left;
+	color: #555;
+	margin-top: 10px;
+}
+
+.diet {
+	float: left;
+	font-size: 71px;
+	letter-spacing: 1px;
+	font-weight: 200;
+	text-transform: uppercase;
+	font-family: "MARI&DAVID BOLD";
+	margin: 7px 10px 10px 0;
+	width: 100%;
+}
+
+.features {
+	float: left;
+	width: 100%;
+	padding: 25px 0;
+	background: #FCFCFC;
+	box-shadow: 0 0 4px rgba(0, 0, 0, 0.25);
+}
+
+.inner {
+	width: 33%;
+	float: left;
+	color: #444;
+}
+
+.inner h2 {
+	font-weight: normal;
+	color: #36C;
+	margin-bottom: 6px;
+	text-transform: capitalize;
+}
+
+.footer {
+	padding: 18px 0;
+	width: 100%;
+	float: left;
+	color: #818E9C;
+}
+
+a {
+	text-decoration: none;
+	color: #006be3;
+}
+
+#bold {
+	font-size: 22px;
+	font-weight: bold;
+	color: #006be3;
+}
+
+#under {
+	text-decoration: underline;
+}
+
+#italic {
+	color: #808080;
+	font-style: italic;
+}
